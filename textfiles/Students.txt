@@ -1,0 +1,8 @@
+Bugs,Bunny,60,70,80
+Daffy,Duck,70,80,90
+Porky,Pig,80,90,100
+Elmer,Fudd,90,90,100
+Wile,Coyote,90,100,100
+Road,Runner,100,100,100
+Marvin,Martian,85,75,65
+Yosemite,Sam,75,65,55
