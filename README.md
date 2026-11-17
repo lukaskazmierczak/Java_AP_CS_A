@@ -9,9 +9,9 @@ The coursework is organized into chapters corresponding to topics covered throug
 
 **Browse Java Assignments** <br>
 -Chapters 1–3: Introductory Java programming exercises <br>
--Chapters 4–7: Intermediate programming assignments and projects
--Chapter 8: Sorting algorithms
--Chapters 9–10: Additional programming assignments
+-Chapters 4–7: Intermediate programming assignments and projects <br>
+-Chapter 8: Sorting algorithms <br>
+-Chapters 9–10: Additional programming assignments <br>
 -Chapter 13: Programs using a custom Bug class with specialized methods beyond standard Java <br>
 
 **Highlighted Projects**
