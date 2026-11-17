@@ -11,23 +11,11 @@ The coursework is organized into chapters corresponding to topics covered throug
 -Chapters 1–3: Introductory Java programming exercises <br>
 -Chapters 4–7: Intermediate programming assignments and projects <br>
 -Chapter 8: Sorting algorithms <br>
--Chapters 9–10: Additional programming assignments <br>
+-Chapter 9: Two-Dimensional Arrays and Matrix Algorithms. <br>
+[Magic Square Generation Algorithm](
+Implemented an iterative algorithm to construct an odd-order magic square using a two-dimensional Java array. Demonstrates algorithmic problem-solving through coordinate tracking, conditional logic, boundary handling, and nested data structures.<br>
+-Chapter 10: 
 -Chapter 13: Programs using a custom Bug class with specialized methods beyond standard Java <br>
-
-**Highlighted Projects**
-To find my projects, navigate to the "src" file and select "assignments". Inside, one can find the projects that I worked on independently in APCSA.
-
-**Project A — Placeholder**
-Briefly describe what the program does, the problem it solves, and the Java concepts or algorithms used. <br>
-[Project A]
-
-**Project B — Placeholder**
-Briefly describe the program's functionality and highlight one interesting technical feature or programming challenge. <br>
-[Project B]
-
-**Project C — Placeholder**
-Explain what the program demonstrates, such as algorithm design, object-oriented programming, or computational problem-solving. <br>
-[Project C]
 
 **Programming Concepts Demonstrated** <br>
 **Independent Programming Assignments**
