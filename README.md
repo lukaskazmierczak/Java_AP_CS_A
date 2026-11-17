@@ -27,6 +27,3 @@ Extended Java's GridWorld Bug class to implement a custom spiral movement algori
 **Technologies** <br>
 Language: Java <br>
 Development environment: IntelliJ IDEA <br>
-Course: AP Computer Science A <br>
-Academic year: 2025–2026 <br>
-Purpose: This repository serves as a portfolio of my Java coursework and demonstrates the programming foundation I continue to build upon in my computer science and quantum computing research interests.
