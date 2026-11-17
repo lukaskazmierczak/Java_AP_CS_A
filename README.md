@@ -14,7 +14,7 @@ The coursework is organized into chapters corresponding to topics covered throug
 -Chapter 9: Two-Dimensional Arrays and Matrix Algorithms. <br>
 [Magic Square Generation Algorithm](https://github.com/lukaskazmierczak/Java_code/blob/main/src/assignments/ch9/MagicSquare_Kazmierczak.java)
 Implemented an iterative algorithm to construct an odd-order magic square using a two-dimensional Java array. Demonstrates algorithmic problem-solving through coordinate tracking, conditional logic, boundary handling, and nested data structures.<br>
--Chapter 10: 
+-Chapter 10: <br>
 -Chapter 13: Programs using a custom Bug class with specialized methods beyond standard Java <br>
 
 **Programming Concepts Demonstrated** <br>
