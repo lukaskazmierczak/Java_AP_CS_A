@@ -20,7 +20,7 @@ Implemented a recursive flood-fill algorithm in Java to identify and modify conn
 
 -Chapter 13: Object-Oriented Programming and Inheritance <br>
 
-[SpiralBug — Object-Oriented Movement Algorithm]
+[SpiralBug — Object-Oriented Movement Algorithm](https://github.com/lukaskazmierczak/Java_code/blob/main/src/assignments/ch13/SpiralBug.java)
 Extended Java's GridWorld Bug class to implement a custom spiral movement algorithm. Demonstrates inheritance, method overriding, state management, conditional logic, and iterative pattern generation.
 
 **Technologies** <br>
