@@ -1,13 +1,3 @@
-This repository serves as an example of some of the work I have done with Java in my AP Computer Science A class during the 2025-2026 school year.
-
-To find my projects, navigate to the "src" file and select "assignments". Inside, one can find the projects that I worked on independently in APCSA.
-
-The chapters are listed from 1-10 with chapter 13 added on as well. Each chapter represents a different topic that was covered in class. For instance, chapter 8 was all about sorting algorithms.
-
-Notable projects can be found in chapters 4 and beyond, as all prior chapters are beginner level.
-
-Chapter 13 is special because it involves work with the bug class, which contains unique methods not included in base java.
-
 # Java Programming | AP Computer Science A
 
 **Overview** <br>
@@ -18,12 +8,14 @@ The projects document my progression through Java programming concepts, from fou
 The coursework is organized into chapters corresponding to topics covered throughout the course.
 
 **Browse Java Assignments** <br>
-Chapters 1–3: Introductory Java programming exercises <br>
-Chapters 4–10: More advanced programming assignments and projects <br>
-Chapter 8: Sorting algorithms <br>
-Chapter 13: Programs using a custom Bug class with specialized methods beyond standard Java <br>
+-Chapters 1–3: Introductory Java programming exercises <br>
+-Chapters 4–7: Intermediate programming assignments and projects
+-Chapter 8: Sorting algorithms
+-Chapters 9–10: Additional programming assignments
+-Chapter 13: Programs using a custom Bug class with specialized methods beyond standard Java <br>
 
 **Highlighted Projects**
+To find my projects, navigate to the "src" file and select "assignments". Inside, one can find the projects that I worked on independently in APCSA.
 
 **Project A — Placeholder**
 Briefly describe what the program does, the problem it solves, and the Java concepts or algorithms used. <br>
