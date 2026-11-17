@@ -4,7 +4,7 @@
 This repository contains a collection of Java programming assignments and projects I completed independently during AP Computer Science A (2025–2026).
 The projects document my progression through Java programming concepts, from foundational programming exercises to more advanced algorithms and problem-solving applications.
 
-**Browse Java Assignments & Programming Highlights ** <br>
+**Browse Java Assignments & Programming Highlights**
 -Chapters 1–3: Introductory Java programming exercises <br>
 -Chapters 4–7: Intermediate programming assignments and projects <br>
 -Chapter 8: Sorting algorithms <br>
@@ -28,5 +28,4 @@ Language: Java <br>
 Development environment: IntelliJ IDEA <br>
 Course: AP Computer Science A <br>
 Academic year: 2025–2026 <br>
-Purpose <br>
-This repository serves as a portfolio of my Java coursework and demonstrates the programming foundation I continue to build upon in my computer science and quantum computing research interests.
+Purpose: This repository serves as a portfolio of my Java coursework and demonstrates the programming foundation I continue to build upon in my computer science and quantum computing research interests.
