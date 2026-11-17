@@ -4,16 +4,15 @@
 This repository contains a collection of Java programming assignments and projects I completed independently during AP Computer Science A (2025–2026).
 The projects document my progression through Java programming concepts, from foundational programming exercises to more advanced algorithms and problem-solving applications.
 
-**Repository Organization**
-The coursework is organized into chapters corresponding to topics covered throughout the course.
-
 **Browse Java Assignments** <br>
 -Chapters 1–3: Introductory Java programming exercises <br>
 -Chapters 4–7: Intermediate programming assignments and projects <br>
 -Chapter 8: Sorting algorithms <br>
 -Chapter 9: Two-Dimensional Arrays and Matrix Algorithms. <br>
+
 [Magic Square Generation Algorithm](https://github.com/lukaskazmierczak/Java_code/blob/main/src/assignments/ch9/MagicSquare_Kazmierczak.java)
 Implemented an iterative algorithm to construct an odd-order magic square using a two-dimensional Java array. Demonstrates algorithmic problem-solving through coordinate tracking, conditional logic, boundary handling, and nested data structures.<br>
+
 -Chapter 10: <br>
 -Chapter 13: Programs using a custom Bug class with specialized methods beyond standard Java <br>
 
