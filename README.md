@@ -23,39 +23,29 @@ Chapters 4–10: More advanced programming assignments and projects <br>
 Chapter 8: Sorting algorithms <br>
 Chapter 13: Programs using a custom Bug class with specialized methods beyond standard Java <br>
 
-Featured Projects
+**Highlighted Projects**
 
-Project Name — Placeholder
+**Project A — Placeholder**
+Briefly describe what the program does, the problem it solves, and the Java concepts or algorithms used. <br>
+[Project A]
 
-Chapter: TBD
+**Project B — Placeholder**
+Briefly describe the program's functionality and highlight one interesting technical feature or programming challenge. <br>
+[Project B]
 
-Briefly describe what the program does, the problem it solves, and the Java concepts or algorithms used.
+**Project C — Placeholder**
+Explain what the program demonstrates, such as algorithm design, object-oriented programming, or computational problem-solving. <br>
+[Project C]
 
-Project Name — Placeholder
-
-Chapter: TBD
-
-Briefly describe the program's functionality and highlight one interesting technical feature or programming challenge.
-
-Project Name — Placeholder
-
-Chapter: TBD
-
-Explain what the program demonstrates, such as algorithm design, object-oriented programming, or computational problem-solving.
-
-Programming Concepts Demonstrated
+**Programming Concepts Demonstrated** <br>
+**Independent Programming Assignments**
+The repository includes projects completed individually as part of AP Computer Science A, demonstrating the application of Java concepts across different programming challenges.
 
 **Algorithms and Sorting**
-
 Chapter 8 explores sorting algorithms, demonstrating approaches to organizing data and solving computational problems.
 
 **Object-Oriented Programming**
-
 Chapter 13 includes programs using a specialized Bug class, providing experience working with predefined classes and methods.
-
-**Independent Programming Assignments**
-
-The repository includes projects completed individually as part of AP Computer Science A, demonstrating the application of Java concepts across different programming challenges.
 
 **Technologies** <br>
 Language: Java <br>
