@@ -5,6 +5,7 @@ This repository contains a collection of Java programming assignments and projec
 The projects document my progression through Java programming concepts, from foundational programming exercises to more advanced algorithms and problem-solving applications.
 
 **Browse Java Assignments & Programming Highlights** <br>
+
 -Chapters 1–3: Introductory Java programming exercises <br>
 -Chapters 4–7: Intermediate programming assignments and projects <br>
 -Chapter 8: Sorting algorithms <br>
