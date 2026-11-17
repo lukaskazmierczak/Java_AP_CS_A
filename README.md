@@ -15,7 +15,7 @@ Implemented an iterative algorithm to construct an odd-order magic square using 
 
 -Chapter 10: Recursion and Algorithms <br>
 
-[Recursive Flood Fill — 2D Grid Algorithm]
+[Recursive Flood Fill — 2D Grid Algorithm](https://github.com/lukaskazmierczak/Java_code/blob/main/src/assignments/ch10/Recursion2D_Kazmierczak.java)
 Implemented a recursive flood-fill algorithm in Java to identify and modify connected regions within a two-dimensional array. Demonstrates recursive problem-solving, grid traversal, boundary checking, and conditional logic.
 
 -Chapter 13: Programs using a custom Bug class with specialized methods beyond standard Java <br>
