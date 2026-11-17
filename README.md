@@ -4,7 +4,7 @@
 This repository contains a collection of Java programming assignments and projects I completed independently during AP Computer Science A (2025–2026).
 The projects document my progression through Java programming concepts, from foundational programming exercises to more advanced algorithms and problem-solving applications.
 
-**Browse Java Assignments** <br>
+**Browse Java Assignments & Programming Highlights ** <br>
 -Chapters 1–3: Introductory Java programming exercises <br>
 -Chapters 4–7: Intermediate programming assignments and projects <br>
 -Chapter 8: Sorting algorithms <br>
@@ -18,17 +18,10 @@ Implemented an iterative algorithm to construct an odd-order magic square using 
 [Recursive Flood Fill — 2D Grid Algorithm](https://github.com/lukaskazmierczak/Java_code/blob/main/src/assignments/ch10/Recursion2D_Kazmierczak.java)
 Implemented a recursive flood-fill algorithm in Java to identify and modify connected regions within a two-dimensional array. Demonstrates recursive problem-solving, grid traversal, boundary checking, and conditional logic.
 
--Chapter 13: Programs using a custom Bug class with specialized methods beyond standard Java <br>
+-Chapter 13: Object-Oriented Programming and Inheritance <br>
 
-**Programming Concepts Demonstrated** <br>
-**Independent Programming Assignments**
-The repository includes projects completed individually as part of AP Computer Science A, demonstrating the application of Java concepts across different programming challenges.
-
-**Algorithms and Sorting**
-Chapter 8 explores sorting algorithms, demonstrating approaches to organizing data and solving computational problems.
-
-**Object-Oriented Programming**
-Chapter 13 includes programs using a specialized Bug class, providing experience working with predefined classes and methods.
+[SpiralBug — Object-Oriented Movement Algorithm]
+Extended Java's GridWorld Bug class to implement a custom spiral movement algorithm. Demonstrates inheritance, method overriding, state management, conditional logic, and iterative pattern generation.
 
 **Technologies** <br>
 Language: Java <br>
