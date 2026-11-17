@@ -13,7 +13,11 @@ The projects document my progression through Java programming concepts, from fou
 [Magic Square Generation Algorithm](https://github.com/lukaskazmierczak/Java_code/blob/main/src/assignments/ch9/MagicSquare_Kazmierczak.java)
 Implemented an iterative algorithm to construct an odd-order magic square using a two-dimensional Java array. Demonstrates algorithmic problem-solving through coordinate tracking, conditional logic, boundary handling, and nested data structures.<br>
 
--Chapter 10: <br>
+-Chapter 10: Recursion and Algorithms <br>
+
+[Recursive Flood Fill — 2D Grid Algorithm]
+Implemented a recursive flood-fill algorithm in Java to identify and modify connected regions within a two-dimensional array. Demonstrates recursive problem-solving, grid traversal, boundary checking, and conditional logic.
+
 -Chapter 13: Programs using a custom Bug class with specialized methods beyond standard Java <br>
 
 **Programming Concepts Demonstrated** <br>
