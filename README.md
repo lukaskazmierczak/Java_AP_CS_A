@@ -18,7 +18,7 @@ The projects document my progression through Java programming concepts, from fou
 -Chapter 10: Recursion and Algorithms <br>
 
 >[Recursive Flood Fill — 2D Grid Algorithm](https://github.com/lukaskazmierczak/Java_code/blob/main/src/assignments/ch10/Recursion2D_Kazmierczak.java)
-<img align="left" width="90" height="91.25" alt="lukas_java_recursive_flood_fill_updated" src="https://github.com/user-attachments/assets/8566279c-af25-4baa-8302-ba517e8bf148" />
+><img align="left" width="90" height="91.25" alt="lukas_java_recursive_flood_fill_updated" src="https://github.com/user-attachments/assets/8566279c-af25-4baa-8302-ba517e8bf148" />
 >Implemented a recursive flood-fill algorithm in Java to identify and modify connected regions within a two-dimensional array. Demonstrates recursive problem-solving, grid >traversal, boundary checking, and conditional logic. <br>
 
 -Chapter 13: Object-Oriented Programming and Inheritance <br>
