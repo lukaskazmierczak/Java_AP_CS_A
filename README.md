@@ -18,6 +18,7 @@ The projects document my progression through Java programming concepts, from fou
 
 >[Recursive Flood Fill — 2D Grid Algorithm](https://github.com/lukaskazmierczak/Java_code/blob/main/src/assignments/ch10/Recursion2D_Kazmierczak.java)
 >Implemented a recursive flood-fill algorithm in Java to identify and modify connected regions within a two-dimensional array. Demonstrates recursive problem-solving, grid >traversal, boundary checking, and conditional logic.
+><img align="left" width="90" height="81.25" alt="lukas_java_recursive_flood_fill" src="https://github.com/user-attachments/assets/4bd09dc8-3053-4bb2-a28c-d2ce4e60de1a" />
 
 -Chapter 13: Object-Oriented Programming and Inheritance <br>
 
