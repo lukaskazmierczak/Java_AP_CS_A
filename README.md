@@ -21,10 +21,12 @@ The projects document my progression through Java programming concepts, from fou
 ><img align="left" width="90" height="91.25" alt="lukas_java_recursive_flood_fill_updated" src="https://github.com/user-attachments/assets/8566279c-af25-4baa-8302-ba517e8bf148" />
 >Implemented a recursive flood-fill algorithm in Java to identify and modify connected regions within a two-dimensional array. Demonstrates recursive problem-solving, grid >traversal, boundary checking, and conditional logic. <br>
 
+
 -Chapter 13: Object-Oriented Programming and Inheritance <br>
 
 >[SpiralBug — Object-Oriented Movement Algorithm](https://github.com/lukaskazmierczak/Java_code/blob/main/src/assignments/ch13/SpiralBug.java)
->Extended Java's GridWorld Bug class to implement a custom spiral movement algorithm. Demonstrates inheritance, method overriding, state management, conditional logic, and >iterative pattern generation.
+><img align="left" width="90" height="81.25" alt="lukas_java_spiral_bug_gridworld" src="https://github.com/user-attachments/assets/6cbfad77-85f0-4cbe-9c42-3e8e567ebe4c" />
+>Extended Java's GridWorld Bug class to implement a custom spiral movement algorithm. Demonstrates inheritance, method overriding, state management, conditional logic, and >iterative pattern generation.<br>
 
 **Technologies** <br>
 Language: Java <br>
